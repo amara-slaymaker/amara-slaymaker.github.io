@@ -16,24 +16,23 @@ excerpt: >
   <small></small>.<br/>
   <small></small>.<br/>
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+  - image_path: /assets/images/why.jpg
+    alt: "why"
+    title: "Why is this important?"
+    excerpt: "This project is inspired by the need to improve education in vulnerable communities in India."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+  - image_path: /assets/images/how.png
+    alt: "how"
+    title: "How does it work?"
+    excerpt: "A digital solution that is affordable and easy to use"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+  - image_path: /assets/images/news.png
+    alt: "news"
+    title: "Latest Updates"
+    excerpt: "Check out the project's current work and progress"
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
