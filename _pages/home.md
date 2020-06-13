@@ -4,13 +4,17 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#fcbe37"
-  overlay_image: "/assets/images/homepage_image.jpg" height = 500
+  overlay_image: "/assets/images/homepage_image.jpg" 
   #actions:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
 excerpt: >
   Reducing teacher workload through efficient online reporting.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.19.3">Latest release v4.19.3</a></small>
+  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.19.3">Latest release v4.19.3</a></small>.<br/>
+  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.19.3">Latest release v4.19.3</a></small>.<br/>
+  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.19.3">Latest release v4.19.3</a></small>.<br/>
+  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.19.3">Latest release v4.19.3</a></small>.<br/>
+  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.19.3">Latest release v4.19.3</a></small>.<br/>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
