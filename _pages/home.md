@@ -11,6 +11,11 @@ header:
 excerpt: >
   Reducing teacher workload through efficient online reporting.<br />
  # <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.19.3">Latest release v4.19.3</a></small>
+ <br />
+ <br />
+ <br />
+ <br />
+ <br />
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
