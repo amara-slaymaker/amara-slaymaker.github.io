@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Our Inspiration"
+     url: https://amara-slaymaker.github.io//docs/our-inspiration/
+  - title: "Our Story"
+     url: https://amara-slaymaker.github.io//docs/quick-start-guide/
+  - title: "Our Concept"
+     url: https://amara-slaymaker.github.io//docs/our-concept/
+  - title: "Our Team"
+     url: https://amara-slaymaker.github.io//docs/our-team/
+  - title: "Get In Touch"
+     url: https://amara-slaymaker.github.io//docs/get-in-touch/
   # - title: "Sitemap"
   #   url: /sitemap/
