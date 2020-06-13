@@ -1,14 +1,14 @@
 # main links
 main:
   - title: "Our Inspiration"
-     url: https://amara-slaymaker.github.io//docs/our-inspiration/
+     #url: https://amara-slaymaker.github.io//docs/our-inspiration/
   - title: "Our Story"
-     url: https://amara-slaymaker.github.io//docs/quick-start-guide/
+     #url: https://amara-slaymaker.github.io//docs/quick-start-guide/
   - title: "Our Concept"
-     url: https://amara-slaymaker.github.io//docs/our-concept/
+     #url: https://amara-slaymaker.github.io//docs/our-concept/
   - title: "Our Team"
-     url: https://amara-slaymaker.github.io//docs/our-team/
+     #url: https://amara-slaymaker.github.io//docs/our-team/
   - title: "Get In Touch"
-     url: https://amara-slaymaker.github.io//docs/get-in-touch/
+     #url: https://amara-slaymaker.github.io//docs/get-in-touch/
   # - title: "Sitemap"
   #   url: /sitemap/
